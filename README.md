@@ -1,5 +1,5 @@
 # JavaCharacteristic
-
+</br></br>
 2017.4.21 Update
 ----
 Java三大特性：封装，继承，多态</br>
