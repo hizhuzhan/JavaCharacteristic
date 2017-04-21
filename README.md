@@ -4,7 +4,7 @@
 2017.4.21 Update
 ----
 Java三大特性：封装，继承，多态</br>
-com,summary And  com.transportationduotaitest：对三特性的总结</br></br>
+com,summary And  com.transportationduotaitest：对三特性的总结</br>
 
 
 2017.4.21 Update
